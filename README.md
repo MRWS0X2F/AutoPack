@@ -43,4 +43,4 @@
 - "./music"里放你要添加的音乐
 # ask:
 ## 什么时候更新呢qwq
-A:此项目已停止更新，请移步
+A:此项目已停止更新，请移步[此处](https://github.com/MRWS0X2F/Minecraft_Package_Helper/settings)
